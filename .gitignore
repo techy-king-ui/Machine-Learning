@@ -1,0 +1,6 @@
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore API project
+Api_database/
+ 
